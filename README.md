@@ -5,7 +5,7 @@ To access the notebook, clone this repository on your machine. Navigate to the d
 
 **pip install jupyter**
 
-To run the notebook, type the command into the command line interface after installation:
+To run the notebook, type the following command into the command line interface after installation:
 
 **jupyter notebook**
 
